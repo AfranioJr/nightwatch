@@ -3,7 +3,7 @@
 
 <h3>Front-end test automation implementation on Gympass Tribes.</h3>
 
-This repository aims the test automation of Gympass Webpages. 
+This repository aims the test automation of Webpages. 
 
 As soon as test environment is ready to run on CI, all the new information will be updated in here!
 
